@@ -274,7 +274,6 @@ public class Aerolinea implements Serializable
      */
     private int contarNombre( String nombre )
     {
-        //comentario nuevo    
         int acum = 0;
         for( Ciudad p = ciudad1; p != null; p = p.darSiguiente( ) )
         {
