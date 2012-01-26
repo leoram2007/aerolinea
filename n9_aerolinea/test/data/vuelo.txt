@@ -1,0 +1,8 @@
+123;2005-12-19 18:40
+3
+Mauricio Barrantes;111
+2-A;2-B;2-C;
+Pedro Piñerez;222
+4-C;4-D;4-E;
+Pablo Marmol;333
+6-C;6-D;6-E;
